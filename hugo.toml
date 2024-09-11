@@ -1,4 +1,4 @@
-baseURL = "https://sanjusk.dev"
+baseURL = "https://sanjusk.dev/blog"
 title = "sanjusk"
 theme = "hugo-coder"
 languageCode = "en"
